@@ -1,4 +1,4 @@
-Part2 - READme
+Part2 READme
 Overview
 Referencing 
 Screenshots Mobile devices
