@@ -26,6 +26,7 @@ Compressed images for faster load times.
 Added responsive image handling (srcset).
 (Commit: f6a7b8c)
 
+
 2025-09-18 — Final Testing & Bug Fixes
 Adjusted spacing issues at tablet breakpoint.
 Fixed broken links and validated HTML/CSS.
