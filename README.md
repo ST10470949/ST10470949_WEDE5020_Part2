@@ -99,6 +99,7 @@ The following breakpoints were implemented in `css/style.css`:
     footer {
         font-size: 0.9em;
         padding: 0.5em 0;
+
     }
 }
 
