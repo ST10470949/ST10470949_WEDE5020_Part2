@@ -124,3 +124,4 @@ The following breakpoints were implemented in `css/style.css`:
 
   /* Desktop styles */
 }
+
