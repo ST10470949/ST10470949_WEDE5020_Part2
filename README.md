@@ -45,15 +45,18 @@ Key tasks included:
 ## Screenshots
 
 - **Desktop View**  
-  ![Desktop Screenshot](screenshots/screenshot-desktop.png)  
+  ![Desktop Screenshot](screenshots/screenshot-desktop.png) <img width="1877" height="935" alt="screenshot-desktop" src="https://github.com/user-attachments/assets/7fd54ed0-91fa-460d-831d-5353fc4fd53f" />
+ 
   *File: `screenshot-desktop.png` – Tested at 1920×1080 in Google Chrome.*
 
 - **Tablet View**  
-  ![Tablet Screenshot](screenshots/screenshot-tablet.png)  
+  ![Tablet Screenshot](screenshots/screenshot-tablet.png)  <img width="1889" height="936" alt="screenshot-tablet" src="https://github.com/user-attachments/assets/5b33e325-3c6c-473d-8b47-a912b06f5f5a" />
+
   *File: `screenshot-tablet.png` – Tested at 712×1138 (Galaxy Tab S4 simulation) in Google Chrome.*
 
 - **Mobile View**  
-  ![Mobile Screenshot](screenshots/screenshot-mobile.png)  
+  ![Mobile Screenshot](screenshots/screenshot-mobile.png)  <img width="1886" height="866" alt="screenshot-mobile" src="https://github.com/user-attachments/assets/584e36d0-499f-4c3c-9aae-74f7c5badd43" />
+
   *File: `screenshot-mobile.png` – Tested at 430×932 (iPhone 14 pro max simulation) in Google Chrome.*
 
 ---
